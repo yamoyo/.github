@@ -5,7 +5,7 @@
   <h3>✨ 팀 프로젝트 시작에 필요한 결정을 재밌고 빠르게 끝내는 팀 초기 세팅 서비스 ✨</h3>
 </div>
 
-1 이미지 넣는 곳
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/b6dab28b-5355-4ccb-a264-0688ad9df953" />
 
 <br/>
 
@@ -21,7 +21,8 @@
 
 ---
 ## 프로젝트 소개
-6번 이미지
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/73776846-2b8b-4323-9380-f2bb5160772c" />
+
 
 "팀플하는데 언제 팀장 정하고, 언제 역할 분배하냐..."
 
@@ -34,7 +35,8 @@
 
 ---
 ## 프로젝트 배경
-2번 이미지
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/69f347ab-622b-49d5-9e86-becd1cb95c44" />
+
 
 실제 팀 프로젝트를 수행하며 겪었던 초기 의사결정의 혼란과 협업 피로 경헙이 이 서비스의 시작이었습니다.
 특히 팀이 처음 모였을 때, 어색한 분위기 속에서 결정을 내리지 못하고 시간이 흘러가는 경험을 하며 문제의식을 가지게 되었습니다.
@@ -53,7 +55,8 @@
 
 👉 그렇다면, 팀이 모이자마자 이 **모든 과정을 빠르고 자연스럽게 끝낼 수 있다**면 어떨까요?
 
-5번 이미지
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/f95e50ab-5690-40ca-a2f0-c2f7bc7a48cd" />
+
 
 야모요는 바로 이 지점을 해결합니다. 팀 빌딩 초반의 어색함과 비효율을 서비스가 직접 이끌어주고, 투표와 합의 구조를 통해 팀 세팅을 게임처럼 완성할 수 있도록 돕습니다.
 
@@ -61,22 +64,27 @@
 ## 주요 기능
 
 ### 팀룸 생성 
-7번
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/880bcff1-eb2f-4778-8347-3faa65497c54" />
+
 
 ### 팀장 정하기 게임
-8번
-11번
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/8b3ecfb8-73ef-4954-981e-af994acf7f32" />
+
+<img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/8e7b4c3b-ceae-45df-a79b-23155e519ef8" />
+
 
 ### 규칙 정하기
-9번
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/ba8fe7a6-05c2-4f7f-8a3c-6daf114f44da" />
+
 
 ### 회의 설정
-10번
+<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/33d98417-8981-47b3-8247-3817b0c67103" />
+
 
 ---
 ## 🛠️ 개발 환경 및 기술
 
-  <table>
+<table>
 <thead>
 <tr>
 <th>분류</th>
