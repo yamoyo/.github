@@ -20,13 +20,15 @@
 </div>
 
 ---
-## 프로젝트 소개
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/73776846-2b8b-4323-9380-f2bb5160772c" />
-
-
+## 🔍 프로젝트 소개
+### 💬 프로젝트 개요
 "팀플하는데 언제 팀장 정하고, 언제 역할 분배하냐..."
 
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/73776846-2b8b-4323-9380-f2bb5160772c" />
+
 팀 프로젝트를 시작할 때, 팀장은 누가할지, 정기 회의는 언제로 해야할지, 협업툴과 규칙은 어떻게 정해야할지 고민하지 않으셨나요?
+
+<br>
 
 **야모요**는 팀 프로젝트 시작에 필요한 결정을 빠르게 끝낼 수 있도록 도와주는 서비스입니다. 
 
@@ -34,7 +36,7 @@
 - **프로젝트 대상 :** 팀 프로젝트 경험이 있는 대학생 / 협업 경험이 필요한 취업준비생
 
 ---
-## 프로젝트 배경
+### 💬 프로젝트 배경
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/69f347ab-622b-49d5-9e86-becd1cb95c44" />
 
 
@@ -44,46 +46,65 @@
 팀 프로젝트 경험자를 대상으로 설문을 진행했고,
 초기 분위기의 어색함, 초기 세팅에 과도하게 소요되는 시간, 의견이 정리되지 않고 흩어지는 상황이 주요 어려움으로 나타났습니다.
 
-**1. 팀 프로젝트 초기 세팅에 시간이 과도하게 소요된다.**
-- 역할 분담, 회의 날짜 정하기 등 결정해야 할 것은 많은데 구심점이 없어 회의가 길어짐.
+1. **팀 프로젝트 초기 세팅에 시간이 과도하게 소요된다.**
+   - 역할 분담, 회의 날짜 정하기 등 결정해야 할 것은 많은데 구심점이 없어 회의가 길어짐.
 
-**2. 의견은 많지만 결론을 만드는 구조가 없다.**
-- 각자의 생각은 있지만 합의로 이어지지 않음.
 
-**3. 기존 도구는 초기 합의에 특화되어 있지 않다.**
-- 범용 도구로는 이 단계를 효과적으로 지원하기 어려움.
+2. **의견은 많지만 결론을 만드는 구조가 없다.**
+   - 각자의 생각은 있지만 합의로 이어지지 않음.
+
+
+3. **기존 도구는 초기 합의에 특화되어 있지 않다.**
+   - 범용 도구로는 이 단계를 효과적으로 지원하기 어려움.
 
 👉 그렇다면, 팀이 모이자마자 이 **모든 과정을 빠르고 자연스럽게 끝낼 수 있다**면 어떨까요?
 
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/f95e50ab-5690-40ca-a2f0-c2f7bc7a48cd" />
 
 
-야모요는 바로 이 지점을 해결합니다. 팀 빌딩 초반의 어색함과 비효율을 서비스가 직접 이끌어주고, 투표와 합의 구조를 통해 팀 세팅을 게임처럼 완성할 수 있도록 돕습니다.
+야모요는 바로 이 지점을 해결합니다.
+
+팀 빌딩 초반의 어색함과 비효율을 서비스가 직접 이끌어주고, 투표와 합의 구조를 통해 팀 세팅을 게임처럼 완성할 수 있도록 돕습니다.
 
 ---
-## 주요 기능
+## ⭐️ 주요 기능
 
-### 팀룸 생성 
+### 🚪 팀룸 생성 
 <img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/880bcff1-eb2f-4778-8347-3faa65497c54" />
 
+* 팀 이름, 마감일, 설명을 입력해 팀룸 생성
+* 생성된 초대 링크를 공유해 팀원 초대
+* 초대 링크는 24시간 후 만료
 
-### 팀장 정하기 게임
+### 🕹️ 팀장 정하기 게임
 <img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/8b3ecfb8-73ef-4954-981e-af994acf7f32" />
 
 <img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/8e7b4c3b-ceae-45df-a79b-23155e519ef8" />
 
+* 팀장 자원 단계에서 하고 싶은 사람은 지원, 아니면 패스
+* 자원자가 여러 명이면 사다리 · 룰렛 · 타이밍 게임 중 하나로 최종 결정
+* 전원 패스 시 전체를 대상으로 게임 진행
+* 결과는 모든 팀원에게 실시간으로 공유
 
-### 규칙 정하기
+### 📝 규칙 정하기
 <img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/ba8fe7a6-05c2-4f7f-8a3c-6daf114f44da" />
 
+* 미리 준비된 규칙 목록에 팀원 각자가 동의 / 비동의 투표
+* 과반수 이상 동의 시 팀 규칙으로 확정
+* 팀장은 규칙을 직접 추가 · 수정 · 삭제 가능
 
-### 회의 설정
+### 📆 회의 설정
 <img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/33d98417-8981-47b3-8247-3817b0c67103" />
+
+* 팀원 각자의 가능한 요일 · 시간대 입력
+* 선호 시간대를 별도로 표시 가능
+* 입력된 정보를 바탕으로 최적의 정기 회의 시간 자동 추천
 
 
 ---
 ## 🛠️ 개발 환경 및 기술
 
+### 🖥️ Frontend
 <table>
 <thead>
 <tr>
@@ -93,61 +114,184 @@
 </thead>
 <tbody>
 <tr>
-<td><b>Frontend</b></td>
+<td><b>Language</b></td>
+<td>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Framework</b></td>
 <td>
 <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-433E38?style=flat&logo=zustand&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Build</b></td>
+<td>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td><b>Backend</b></td>
+<td><b>State Management</b></td>
+<td>
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat&logo=zustand&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Library</b></td>
+<td>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
+</td>
+</tr>
+</tbody>
+</table>
+
+### 💻 Backend
+<table>
+<thead>
+<tr>
+<th>분류</th>
+<th>기술 스택</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Language</b></td>
 <td>
 <img src="https://img.shields.io/badge/Java_21-007396?style=flat&logo=openjdk&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Framework</b></td>
+<td>
 <img src="https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth2-000000?style=flat&logo=oauth&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket/STOMP-010101?style=flat&logo=socket.io&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Authentication</b></td>
+<td>
+<img src="https://img.shields.io/badge/OAuth2-000000?style=flat&logo=oauth&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Infrastructure</b></td>
+<td>
 <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket/STOMP-010101?style=flat&logo=socket.io&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase_Admin-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td><b>Monitoring / Testing</b></td>
+<td>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td><b>Deployment</b></td>
+<td><b>Documentation</b></td>
+<td>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/></td>
+</tr>
+</tbody>
+</table>
+
+### 🌐 Deployment
+<table>
+<thead>
+<tr>
+<th>분류</th>
+<th>기술 스택</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Containerization</b></td>
 <td>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat&logo=naver&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td><b>Collaboration</b></td>
+<td><b>Web Server</b></td>
+<td>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>CI/CD</b></td>
+<td>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Cloud</b></td>
+<td>
+<img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat&logo=naver&logoColor=white"/>
+</td>
+</tr>
+</tbody>
+</table>
+
+### 🫱🏻‍🫲🏼 Collaboration
+<table>
+<thead>
+<tr>
+<th>분류</th>
+<th>기술 스택</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Version Control</b></td>
 <td>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/ERD_Cloud-212529?style=flat"/>
-<img src="https://img.shields.io/badge/Riidо-4353FF?style=flat"/>
+</td>
+</tr>
+<tr>
+<td><b>Documentation</b></td>
+<td>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/ERD_Cloud-212529?style=flat"/>
+</td>
+</tr>
+<tr>
+<td><b>Design</b></td>
+<td>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Project Management</b></td>
+<td>
+<img src="https://img.shields.io/badge/Riidо-4353FF?style=flat"/>
+</td>
+</tr>
+<tr>
+<td><b>Communication</b></td>
+<td>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
 </td>
 </tr>
 </tbody>
 </table>
+
+---
+## 🏗 시스템 아키텍처
