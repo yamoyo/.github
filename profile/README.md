@@ -105,51 +105,117 @@
 ## 🛠️ 개발 환경 및 기술
 
 ### 🖥️ Frontend
-<table>
-<thead>
-<tr>
-<th>분류</th>
-<th>기술 스택</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>Language</b></td>
-<td>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><b>Framework</b></td>
-<td>
-<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><b>Build</b></td>
-<td>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><b>State Management</b></td>
-<td>
-<img src="https://img.shields.io/badge/Zustand-433E38?style=flat&logo=zustand&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><b>Library</b></td>
-<td>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
-</td>
-</tr>
-</tbody>
+  <table>
+  <thead>
+    <tr>
+      <th>분류</th>
+      <th>기술 스택</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Language</b></td>
+      <td>
+        <img
+          src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Framework</b></td>
+      <td>
+        <img
+          src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black"
+        />
+        <img
+          src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Build</b></td>
+      <td>
+        <img
+          src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td><b>State Management</b></td>
+      <td>
+        <img
+          src="https://img.shields.io/badge/Zustand-433E38?style=flat&logo=zustand&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td><b>API & WebSocket</b></td>
+      <td>
+        <img
+          src="https://img.shields.io/badge/Fetch-000000?style=flat&logo=javascript&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/STOMP%20%2B%20SockJS-444444?style=flat&logo=websocket&logoColor=white"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Form & Animation</b></td>
+      <td>
+        <img
+          src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Styling & Utils</b></td>
+      <td>
+        <img
+          src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/clsx-1E1E1E?style=flat&logo=react&logoColor=white"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Notification</b></td>
+      <td>
+        <img
+          src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Code Quality</b></td>
+      <td>
+        <img
+          src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black"
+        />
+        <img
+          src="https://img.shields.io/badge/Husky-000000?style=flat&logo=git&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/lint--staged-5E5E5E?style=flat&logo=github&logoColor=white"
+        />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ### 💻 Backend
